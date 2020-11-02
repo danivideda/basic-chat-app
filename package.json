@@ -1,0 +1,25 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Simple chat app using node, express, mongoose, and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danivideda/basic-chat-app.git"
+  },
+  "keywords": [
+    "chat-app"
+  ],
+  "author": "Dani Ihza Farrosi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danivideda/basic-chat-app/issues"
+  },
+  "homepage": "https://github.com/danivideda/basic-chat-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
